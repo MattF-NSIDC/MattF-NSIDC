@@ -1,10 +1,13 @@
-### Hi there 👋
+### 👋 Matt Fisher, Software Developer @ NSIDC
+
+- 🔭 I’m currently working on [QGreenland](https://github.com/nsidc/qgreenland)
+- 🏢 My personal account: [@mfisher87](https://github.com/mfisher87)
+- 🧪 [ORCID](https://orcid.org/0000-0003-3260-5445)
+- 📫 How to reach me: matt.fisher@nsidc.org
+- 😄 Pronouns: He
+- 📄 [Visit my profile site](https://mfisher87.github.io)
 
 <!--
-**MattF-NSIDC/MattF-NSIDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
